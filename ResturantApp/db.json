@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "pinky",
+      "email": "pinky.lo@gmail.com",
+      "mobile": "7889887990",
+      "address": "Marthalli",
+      "services": "kulfi"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Bhargav",
+      "email": "bhargav.09@gmail.com",
+      "mobile": "6362932409",
+      "password": "Bhargav@123",
+      "id": 1
+    },
+    {
+      "name": "Suman",
+      "email": "suman.s@gmail.com",
+      "mobile": "7990868976",
+      "password": "Suman@123",
+      "id": 2
+    },
+    {
+      "name": "bhargav",
+      "email": "bhargavb@gmail.com",
+      "mobile": "909090900",
+      "password": "Bhargav@123",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
